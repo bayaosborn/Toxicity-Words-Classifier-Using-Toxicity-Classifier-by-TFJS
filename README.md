@@ -1,4 +1,6 @@
 #Toxicity-Words-Classifier-Using-Toxicity-Classifier-by-TFJS
+
+
 In this article, we'll explore a web application that uses Google's Toxicity Classifier to classify user input as toxic or non-toxic. The web application is built using HTML, CSS, and JavaScript, and utilizes the Toxicity Classifier library provided by Google.
 
 The Toxicity Classifier library is a machine learning model that is trained to identify toxic language in text. The model is trained on a large dataset of toxic and non-toxic language, and is able to identify various types of toxicity, such as insults, threats, and profanity.
